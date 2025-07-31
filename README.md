@@ -76,6 +76,9 @@ Open `geolife_route_analysis.html` in a web browser to:
 
 ---
 
+<img width="1717" height="937" alt="Screenshot 2025-07-31 102503" src="https://github.com/user-attachments/assets/00b0e0f1-bef3-4b46-a5fc-f5ffc76c6373" />
+
+
 ## Future Enhancements
 
 - **Advanced Route Generation:** Trajectory clustering with DTW, density maps, or sequence modeling.
